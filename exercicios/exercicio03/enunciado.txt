@@ -1,0 +1,14 @@
+Crie uma classe FilaDePrioridade para armazenar objetos da classe Pessoa  
+que contém nome e senha número de atendimento), simulando a chegada e saída de 
+pessoas em uma fila de banco. A classe deve utilizar internamente 2 filas 
+(uma normal e uma de prioridade) utilizando a classe LinkedList (Queue) 
+apresentada nesta aula como base. 
+
+Ao realizar a remoção da fila, deve ser seguida a seguinte estratégia: 
+devem ser atendidas 2 com prioridade para cada 1 pessoal normal. 
+Caso a fila de prioridades esteja vazia, remova pessoas normais.
+ 
+
+Para testar, construa um programa que utilize essa classe FilaDePrioridade, 
+fornecendo opções para a entrada de pessoas do tipo normal e prioritária, 
+atender o próximo da fila, e exibir a fila.

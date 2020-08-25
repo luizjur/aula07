@@ -1,0 +1,8 @@
+As Lojas PP possuem um modelo Pré-Pago de compras para seus clientes comuns. 
+Independente do tipo de cliente, sempre há um crédito disponível na loja que permite 
+com que o cliente faça suas compras. 
+O cliente que estiver com seu saldo zerado não poderá fazer mais compras. 
+Caso queira continuar comprando, o cliente pode “quitar suas dívidas” 
+adicionando valores ao seu saldo remanescente (como uma conta de celular). 
+Porém para o Cliente VIP há um saldo extra (o famoso “Fiado” do interior). 
+Mesmo que não haja saldo, porém havendo limite, o cliente VIP pode efetuar suas compras. 
